@@ -1,0 +1,17 @@
+{
+  "name": "dev.ladyluh.visememaker",
+  "displayName": "VisemeMaker",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Makes VRChat's 14 visemes from a model's vowel shapes (A, I, U, E, O) and sets up lip sync. Works with English, Japanese, VRoid, MMD and Source shape names.",
+  "author": {
+    "name": "luna-gelmini",
+    "url": "https://github.com/luna-gelmini"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/luna-gelmini/VisemeMaker",
+  "url": "https://github.com/luna-gelmini/VisemeMaker/releases/download/v1.0.0/dev.ladyluh.visememaker-1.0.0.zip",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.0"
+  }
+}
