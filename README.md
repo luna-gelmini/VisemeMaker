@@ -1,5 +1,7 @@
 # VisemeMaker
 
+![VisemeMaker](Documentation~/header.png)
+
 Makes VRChat's 14 visemes from the vowel shapes most models already have (A, I, U, E, O) and sets
 up lip sync on the avatar descriptor. Handy for MMD, VRoid, Source and other models that come
 without VRChat visemes.
